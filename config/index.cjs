@@ -50,7 +50,7 @@ const USER_CONFIG = {
   ],
   
   
-  USERS: [
+  USERS2: [
     {
       // 想要发送的人的名字
       name: '张狗2',
