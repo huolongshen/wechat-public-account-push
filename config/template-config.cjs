@@ -23,7 +23,6 @@ const TEMPLATE_CONFIG = [
       {{comprehensive_horoscope.DATA}}
       
       ---
-     预防感冒提醒： {{ganmao.DATA}}
      
      tips：{{notice.DATA}}
       ---
