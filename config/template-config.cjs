@@ -23,6 +23,9 @@ const TEMPLATE_CONFIG = [
       {{comprehensive_horoscope.DATA}}
       
       ---
+     预防感冒提醒： {{ganmao.DATA}}
+     {{notice.DATA}}
+      ---
       
       今天是我们相识的第{{love_day.DATA}}天
       
