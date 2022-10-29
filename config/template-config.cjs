@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'ZYL1',
+    id: 'LMM',
     title: '亲爱的, 早上好',
     desc: `
       **{{date.DATA}}**
