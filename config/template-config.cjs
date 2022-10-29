@@ -24,7 +24,8 @@ const TEMPLATE_CONFIG = [
       
       ---
      预防感冒提醒： {{ganmao.DATA}}
-     {{notice.DATA}}
+     
+     tips：{{notice.DATA}}
       ---
       
       今天是我们相识的第{{love_day.DATA}}天
@@ -35,7 +36,9 @@ const TEMPLATE_CONFIG = [
       
       {{moment_copyrighting.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{note_en.DATA}}
+      
+      {{earthy_love_words.DATA}}
     `
   },
   
